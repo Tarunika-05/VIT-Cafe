@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="loc-icon">
+<rect width="36" height="36" rx="8" fill="#ECFDF5"/>
+<path id="map-pin" d="M18.6761 26.8193C20.7686 25.3739 27 20.6938 27 16.2001C27 14.2905 26.0518 12.4591 24.364 11.1089C22.6761 9.75858 20.3869 9 18 9C15.6131 9 13.3239 9.75858 11.636 11.1089C9.94821 12.4591 9 14.2905 9 16.2001C9 20.6938 15.2314 25.3739 17.3239 26.8193C17.5188 26.9366 17.7561 27 18 27C18.2439 27 18.4812 26.9366 18.6761 26.8193Z" fill="#2563EB"/>
+</g>
+</svg>

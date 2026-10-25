@@ -1,0 +1,11 @@
+{
+  "title": "vitcafe",
+  "description": "Explore and order food items effortlessly with a user-friendly interface that allows searching, filtering, and managing your cart seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
